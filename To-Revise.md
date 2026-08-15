@@ -9,3 +9,4 @@ Check these off as you review them!
 - [ ] **Matrix Diagonal Sum** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Matrix%20Diagonal%20Sum)
 - [ ] **Can Place Flowers** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Can%20Place%20Flowers)
 - [ ] **Lucky Numbers in a Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix)
+- [ ] **Relative Sort Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Relative%20Sort%20Array)
