@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Array Subset](./GeeksForGeeks/Easy/Array%20Subset) - *Easy*
 - [Zero Sum Subarray](./GeeksForGeeks/Unknown/Zero%20Sum%20Subarray) - *Unknown*
 - [Merge Without Extra Space](./GeeksForGeeks/Unknown/Merge%20Without%20Extra%20Space) - *Unknown*
