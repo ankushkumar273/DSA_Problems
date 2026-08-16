@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Array Subset](./GeeksForGeeks/Easy/Array%20Subset) - *Easy*
 - [Zero Sum Subarray](./GeeksForGeeks/Unknown/Zero%20Sum%20Subarray) - *Unknown*
