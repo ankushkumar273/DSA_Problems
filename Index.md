@@ -10,3 +10,6 @@ All solved problems organized by pattern/category.
 - [Zero Sum Subarray](./GeeksForGeeks/Unknown/Zero%20Sum%20Subarray) - *Unknown*
 - [Merge Without Extra Space](./GeeksForGeeks/Unknown/Merge%20Without%20Extra%20Space) - *Unknown*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
+
+## 2D-Arrays
+- [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
