@@ -12,6 +12,7 @@ All solved problems organized by pattern/category.
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## 2D-Arrays
+- [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
 - [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) - *Medium*
 - [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
 - [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) - *Easy*
