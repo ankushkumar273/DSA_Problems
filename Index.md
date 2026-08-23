@@ -12,6 +12,7 @@ All solved problems organized by pattern/category.
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## 2D-Arrays
+- [Rotate by 90 degree](./GeeksForGeeks/Medium/Rotate%20by%2090%20degree) - *Medium*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
 - [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) - *Medium*
