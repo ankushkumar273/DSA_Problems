@@ -11,3 +11,4 @@ Check these off as you review them!
 - [ ] **Lucky Numbers in a Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix)
 - [ ] **Relative Sort Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Relative%20Sort%20Array)
 - [ ] **Pow(x, n)** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Powx%20n)
+- [ ] **Implement Pow** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Implement%20Pow)
