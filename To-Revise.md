@@ -12,3 +12,4 @@ Check these off as you review them!
 - [ ] **Relative Sort Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Relative%20Sort%20Array)
 - [ ] **Pow(x, n)** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Powx%20n)
 - [ ] **Implement Pow** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Implement%20Pow)
+- [ ] **K-th Missing in Sorted** (GeeksForGeeks - Easy) | [View Solution](./GeeksForGeeks/Easy/K-th%20Missing%20in%20Sorted)
