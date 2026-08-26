@@ -13,3 +13,4 @@ Check these off as you review them!
 - [ ] **Pow(x, n)** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Powx%20n)
 - [ ] **Implement Pow** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Implement%20Pow)
 - [ ] **K-th Missing in Sorted** (GeeksForGeeks - Easy) | [View Solution](./GeeksForGeeks/Easy/K-th%20Missing%20in%20Sorted)
+- [ ] **Image Smoother** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Image%20Smoother)
