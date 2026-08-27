@@ -12,6 +12,7 @@ All solved problems organized by pattern/category.
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## 2D-Arrays
+- [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [Implement Pow](./GeeksForGeeks/Medium/Implement%20Pow) - *Medium*
 - [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) - *Easy*
