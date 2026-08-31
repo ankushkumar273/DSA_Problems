@@ -15,3 +15,4 @@ Check these off as you review them!
 - [ ] **K-th Missing in Sorted** (GeeksForGeeks - Easy) | [View Solution](./GeeksForGeeks/Easy/K-th%20Missing%20in%20Sorted)
 - [ ] **Image Smoother** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Image%20Smoother)
 - [ ] **Projection Area of 3D Shapes** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes)
+- [ ] **Check if Array Is Sorted and Rotated** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated)
