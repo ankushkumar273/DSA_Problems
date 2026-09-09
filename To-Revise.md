@@ -16,3 +16,4 @@ Check these off as you review them!
 - [ ] **Image Smoother** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Image%20Smoother)
 - [ ] **Projection Area of 3D Shapes** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes)
 - [ ] **Check if Array Is Sorted and Rotated** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated)
+- [ ] **Valid Palindrome** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Palindrome)
