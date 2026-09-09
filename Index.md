@@ -25,6 +25,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## String
+- [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) - *Easy*
 - [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) - *Easy*
 - [Largest odd number in string](./GeeksForGeeks/Easy/Largest%20odd%20number%20in%20string) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
