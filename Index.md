@@ -40,3 +40,6 @@ All solved problems organized by pattern/category.
 
 ## Binary Search
 - [Binary Search](./GeeksForGeeks/Easy/Binary%20Search) - *Easy*
+
+## searching
+- [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
