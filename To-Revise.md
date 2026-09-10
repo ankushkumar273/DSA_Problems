@@ -18,3 +18,4 @@ Check these off as you review them!
 - [ ] **Check if Array Is Sorted and Rotated** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated)
 - [ ] **Valid Palindrome** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Palindrome)
 - [ ] **Wiggle Subsequence** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Wiggle%20Subsequence)
+- [ ] **Longest Zig-Zag Subsequence** (GeeksForGeeks - Hard) | [View Solution](./GeeksForGeeks/Hard/Longest%20Zig-Zag%20Subsequence)
