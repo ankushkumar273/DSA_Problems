@@ -20,3 +20,4 @@ Check these off as you review them!
 - [ ] **Wiggle Subsequence** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Wiggle%20Subsequence)
 - [ ] **Longest Zig-Zag Subsequence** (GeeksForGeeks - Hard) | [View Solution](./GeeksForGeeks/Hard/Longest%20Zig-Zag%20Subsequence)
 - [ ] **Next Permutation** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Next%20Permutation)
+- [ ] **Longest Consecutive Sequence** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Consecutive%20Sequence)
