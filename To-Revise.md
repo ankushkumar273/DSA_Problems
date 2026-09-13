@@ -22,3 +22,4 @@ Check these off as you review them!
 - [ ] **Next Permutation** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Next%20Permutation)
 - [ ] **Longest Consecutive Sequence** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Consecutive%20Sequence)
 - [ ] **Majority Element II** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Majority%20Element%20II)
+- [ ] **Majority Element - More Than n/3** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Majority%20Element%20-%20More%20Than%20n3)
