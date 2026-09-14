@@ -46,4 +46,5 @@ All solved problems organized by pattern/category.
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 
 ## Two Pointers
+- [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) - *Easy*
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
