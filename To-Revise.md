@@ -23,3 +23,4 @@ Check these off as you review them!
 - [ ] **Longest Consecutive Sequence** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Consecutive%20Sequence)
 - [ ] **Majority Element II** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Majority%20Element%20II)
 - [ ] **Majority Element - More Than n/3** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Majority%20Element%20-%20More%20Than%20n3)
+- [ ] **Merge Intervals** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Merge%20Intervals)
