@@ -24,3 +24,4 @@ Check these off as you review them!
 - [ ] **Majority Element II** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Majority%20Element%20II)
 - [ ] **Majority Element - More Than n/3** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Majority%20Element%20-%20More%20Than%20n3)
 - [ ] **Merge Intervals** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Merge%20Intervals)
+- [ ] **Overlapping Intervals** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Overlapping%20Intervals)
