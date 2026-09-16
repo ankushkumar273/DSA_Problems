@@ -12,6 +12,7 @@ All solved problems organized by pattern/category.
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## 2D-Arrays
+- [The K Weakest Rows in a Matrix](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix) - *Easy*
 - [Overlapping Intervals](./GeeksForGeeks/Medium/Overlapping%20Intervals) - *Medium*
 - [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
 - [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) - *Easy*
