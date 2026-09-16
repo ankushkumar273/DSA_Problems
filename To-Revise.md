@@ -25,3 +25,4 @@ Check these off as you review them!
 - [ ] **Majority Element - More Than n/3** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Majority%20Element%20-%20More%20Than%20n3)
 - [ ] **Merge Intervals** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Merge%20Intervals)
 - [ ] **Overlapping Intervals** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Overlapping%20Intervals)
+- [ ] **The K Weakest Rows in a Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix)
