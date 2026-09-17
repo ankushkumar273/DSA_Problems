@@ -43,6 +43,7 @@ All solved problems organized by pattern/category.
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 
 ## Binary Search
+- [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
 - [Binary Search](./GeeksForGeeks/Easy/Binary%20Search) - *Easy*
 
 ## searching
