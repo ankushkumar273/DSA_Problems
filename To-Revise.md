@@ -27,3 +27,4 @@ Check these off as you review them!
 - [ ] **Overlapping Intervals** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Overlapping%20Intervals)
 - [ ] **The K Weakest Rows in a Matrix** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix)
 - [ ] **First Bad Version** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/First%20Bad%20Version)
+- [ ] **Search in Rotated Sorted Array** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array)
