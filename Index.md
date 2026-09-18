@@ -43,6 +43,7 @@ All solved problems organized by pattern/category.
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 
 ## Binary Search
+- [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Search in Rotated Sorted Array](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
 - [Binary Search](./GeeksForGeeks/Easy/Binary%20Search) - *Easy*
