@@ -54,3 +54,6 @@ All solved problems organized by pattern/category.
 ## Two Pointers
 - [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) - *Easy*
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
+
+## Uncategorized
+- [While Loop](./GeeksForGeeks/Easy/While%20Loop) - *Easy*
