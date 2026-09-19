@@ -57,3 +57,6 @@ All solved problems organized by pattern/category.
 
 ## Uncategorized
 - [While Loop](./GeeksForGeeks/Easy/While%20Loop) - *Easy*
+
+## sorting
+- [Sort Array](./GeeksForGeeks/Easy/Sort%20Array) - *Easy*
