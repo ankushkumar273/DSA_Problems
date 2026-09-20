@@ -56,6 +56,7 @@ All solved problems organized by pattern/category.
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 
 ## Uncategorized
+- [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) - *Easy*
 - [While Loop](./GeeksForGeeks/Easy/While%20Loop) - *Easy*
 
 ## sorting
