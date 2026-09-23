@@ -28,6 +28,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## String
+- [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) - *Hard*
 - [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [Longest Common Prefix of Strings](./GeeksForGeeks/Easy/Longest%20Common%20Prefix%20of%20Strings) - *Easy*
