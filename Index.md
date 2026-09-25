@@ -28,6 +28,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## String
+- [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) - *Medium*
 - [Remove All Occurrences of a Substring](./LeetCode/Medium/Remove%20All%20Occurrences%20of%20a%20Substring) - *Medium*
 - [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) - *Hard*
 - [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
