@@ -29,3 +29,4 @@ Check these off as you review them!
 - [ ] **First Bad Version** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/First%20Bad%20Version)
 - [ ] **Search in Rotated Sorted Array** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array)
 - [ ] **Minimum Window Substring** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Minimum%20Window%20Substring)
+- [ ] **Permutation in String** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Permutation%20in%20String)
