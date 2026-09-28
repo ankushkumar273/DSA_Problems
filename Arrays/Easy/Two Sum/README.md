@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 3, 2026 |
+| **Solved On** | September 28, 2026 |
 | **Tags** | Array, Hash Table |
 | **Link** | [View Problem](https://leetcode.com/problems/two-sum/) |
-| **Runtime** | 0 ms |
-| **Memory** | 43.1 MB |
+| **Runtime** | 3 ms |
+| **Memory** | 46.8 MB |
 
 ## Problem Description
 
