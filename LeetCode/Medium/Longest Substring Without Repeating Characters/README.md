@@ -5,50 +5,15 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | September 27, 2026 |
+| **Solved On** | September 30, 2026 |
 | **Tags** | Hash Table, String, Sliding Window |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | **Runtime** | 37 ms |
-| **Memory** | 48.2 MB |
-
-## Approach
-
-Pattern: Sliding Window + HashMap
-left → current substring/window ka starting index.
-right → current character ka index; ye continuously 0 se s.length()-1 tak jayega.
-
-HashMap me character → uska last index store karo.
-
-map.put(ch, right);
-map.containsKey(ch) → check karo ki character current/past window me pehle aa chuka hai.
-
-Agar character repeat ho:
-
-left = Math.max(left, map.get(ch) + 1);
-map.get(ch) → character ka previous index.
-+1 → previous character ke just next position.
-Math.max() → left ko kabhi peeche nahi jaane deta.
-
-Har character ke baad uska latest index update karo:
-
-map.put(ch, right);
-
-Current window ki length:
-
-right - left + 1
-
-Maximum length store karo:
-
-maxCount = Math.max(maxCount, count);
-Important: Is question me complete string ki frequency count nahi karni. Last index store karna hai.
-
-Example:
-
-"abcabcbb" → "abc" → answer = 3
+| **Memory** | 47.7 MB |
 
 ## Problem Description
 
-<p>Given a string <code>s</code>, find the length of the <strong>longest</strong> <span data-keyword="substring-nonempty" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_t_" data-state="closed" class="" fdprocessedid="5rmy5"><strong>substring</strong></button></span> without duplicate characters.</p>
+<p>Given a string <code>s</code>, find the length of the <strong>longest</strong> <span data-keyword="substring-nonempty" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_t_" data-state="closed" class="" fdprocessedid="6dmt2j"><strong>substring</strong></button></span> without duplicate characters.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
