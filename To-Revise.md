@@ -31,3 +31,4 @@ Check these off as you review them!
 - [ ] **Minimum Window Substring** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Minimum%20Window%20Substring)
 - [ ] **Permutation in String** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Permutation%20in%20String)
 - [ ] **Longest Substring Without Repeating Characters** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters)
+- [ ] **String Compression** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/String%20Compression)
