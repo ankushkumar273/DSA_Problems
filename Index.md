@@ -28,6 +28,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## String
+- [String Compression](./LeetCode/Medium/String%20Compression) - *Medium*
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) - *Medium*
 - [Permutation in String](./LeetCode/Medium/Permutation%20in%20String) - *Medium*
