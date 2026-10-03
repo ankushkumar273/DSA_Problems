@@ -28,6 +28,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## String
+- [Longest Happy Prefix](./LeetCode/Hard/Longest%20Happy%20Prefix) - *Hard*
 - [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
 - [String Compression](./LeetCode/Medium/String%20Compression) - *Medium*
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
