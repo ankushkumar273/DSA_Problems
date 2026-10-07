@@ -5,26 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | August 24, 2026 |
+| **Solved On** | October 7, 2026 |
 | **Tags** | Math, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/powx-n/) |
 | **Runtime** | 1 ms |
-| **Memory** | 48.2 MB |
-
-## Approach
-
-Pow(x,n)
-   ↓
-n == 0 ? → 1
-   ↓
-n negative?
-   ↓
-x = 1/x, n = -n
-   ↓
-half = power(x, n/2)
-   ↓
-even → half × half
-odd  → x × half × half
+| **Memory** | 48 MB |
 
 ## Problem Description
 
