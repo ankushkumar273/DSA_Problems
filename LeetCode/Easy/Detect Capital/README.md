@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 4, 2026 |
+| **Solved On** | October 8, 2026 |
 | **Tags** | String |
 | **Link** | [View Problem](https://leetcode.com/problems/detect-capital/) |
 | **Runtime** | 1 ms |
-| **Memory** | 43.2 MB |
+| **Memory** | 43.1 MB |
 
 ## Problem Description
 
