@@ -12,6 +12,7 @@ All solved problems organized by pattern/category.
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 
 ## 2D-Arrays
+- [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) - *Easy*
 - [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) - *Easy*
 - [Spiral Matrix II](./LeetCode/Medium/Spiral%20Matrix%20II) - *Medium*
 - [The K Weakest Rows in a Matrix](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix) - *Easy*
