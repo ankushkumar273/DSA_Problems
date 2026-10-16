@@ -33,3 +33,4 @@ Check these off as you review them!
 - [ ] **Longest Substring Without Repeating Characters** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters)
 - [ ] **String Compression** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/String%20Compression)
 - [ ] **Sliding Window Maximum** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Sliding%20Window%20Maximum)
+- [ ] **N-Queens** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/N-Queens)
