@@ -76,3 +76,6 @@ All solved problems organized by pattern/category.
 
 ## sorting
 - [Sort Array](./GeeksForGeeks/Easy/Sort%20Array) - *Easy*
+
+## Backtracking
+- [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
