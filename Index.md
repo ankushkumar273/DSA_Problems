@@ -69,6 +69,7 @@ All solved problems organized by pattern/category.
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 
 ## Uncategorized
+- [N-Queen Problem](./GeeksForGeeks/Hard/N-Queen%20Problem) - *Hard*
 - [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
 - [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) - *Easy*
 - [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) - *Easy*
