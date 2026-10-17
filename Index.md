@@ -79,4 +79,5 @@ All solved problems organized by pattern/category.
 - [Sort Array](./GeeksForGeeks/Easy/Sort%20Array) - *Easy*
 
 ## Backtracking
+- [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) - *Hard*
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
