@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | September 2, 2026 |
+| **Solved On** | October 20, 2026 |
 | **Tags** | Array, Math, Two Pointers |
 | **Link** | [View Problem](https://leetcode.com/problems/rotate-array/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.8 MB |
+| **Runtime** | 6 ms |
+| **Memory** | 272.9 MB |
 
 ## Problem Description
 
