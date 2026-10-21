@@ -69,6 +69,7 @@ All solved problems organized by pattern/category.
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 
 ## Uncategorized
+- [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 - [Rotate Array](./LeetCode/Medium/Rotate%20Array) - *Medium*
 - [N-Queen Problem](./GeeksForGeeks/Hard/N-Queen%20Problem) - *Hard*
 - [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
