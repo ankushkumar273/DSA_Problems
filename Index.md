@@ -81,5 +81,6 @@ All solved problems organized by pattern/category.
 - [Sort Array](./GeeksForGeeks/Easy/Sort%20Array) - *Easy*
 
 ## Backtracking
+- [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) - *Medium*
 - [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) - *Hard*
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
