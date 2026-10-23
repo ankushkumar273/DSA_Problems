@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 21, 2026 |
+| **Solved On** | October 24, 2026 |
 | **Tags** | Two Pointers, String, Stack, Simulation |
 | **Link** | [View Problem](https://leetcode.com/problems/backspace-string-compare/) |
-| **Runtime** | 4 ms |
-| **Memory** | 44.1 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 42.6 MB |
 
 ## Problem Description
 
