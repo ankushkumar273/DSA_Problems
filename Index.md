@@ -87,4 +87,5 @@ All solved problems organized by pattern/category.
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
 
 ## Stack
+- [Make The String Great](./LeetCode/Easy/Make%20The%20String%20Great) - *Easy*
 - [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) - *Easy*
