@@ -85,3 +85,6 @@ All solved problems organized by pattern/category.
 - [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) - *Medium*
 - [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) - *Hard*
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
+
+## Stack
+- [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) - *Easy*
