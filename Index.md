@@ -87,6 +87,7 @@ All solved problems organized by pattern/category.
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
 
 ## Stack
+- [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Largest Rectangle In Histogram](./LeetCode/Hard/Largest%20Rectangle%20In%20Histogram) - *Hard*
 - [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) - *Medium*
 - [Make The String Great](./LeetCode/Easy/Make%20The%20String%20Great) - *Easy*
