@@ -87,6 +87,7 @@ All solved problems organized by pattern/category.
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
 
 ## Stack
+- [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) - *Medium*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Largest Rectangle In Histogram](./LeetCode/Hard/Largest%20Rectangle%20In%20Histogram) - *Hard*
 - [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) - *Medium*
