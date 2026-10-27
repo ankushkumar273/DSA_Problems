@@ -93,3 +93,6 @@ All solved problems organized by pattern/category.
 - [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) - *Medium*
 - [Make The String Great](./LeetCode/Easy/Make%20The%20String%20Great) - *Easy*
 - [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) - *Easy*
+
+## Heap / Priority Queue
+- [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
