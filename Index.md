@@ -31,6 +31,7 @@ All solved problems organized by pattern/category.
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 
 ## String
+- [Next Greater Element III](./LeetCode/Medium/Next%20Greater%20Element%20III) - *Medium*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Longest Happy Prefix](./LeetCode/Hard/Longest%20Happy%20Prefix) - *Hard*
 - [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
