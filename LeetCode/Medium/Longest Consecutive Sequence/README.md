@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | September 12, 2026 |
+| **Solved On** | October 30, 2026 |
 | **Tags** | Array, Hash Table, Union-Find |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-consecutive-sequence/) |
-| **Runtime** | 21 ms |
-| **Memory** | 77.4 MB |
+| **Runtime** | 22 ms |
+| **Memory** | 76.7 MB |
 
 ## Problem Description
 
