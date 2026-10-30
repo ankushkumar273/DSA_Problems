@@ -70,6 +70,7 @@ All solved problems organized by pattern/category.
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 
 ## Uncategorized
+- [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) - *Medium*
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 - [Rotate Array](./LeetCode/Medium/Rotate%20Array) - *Medium*
 - [N-Queen Problem](./GeeksForGeeks/Hard/N-Queen%20Problem) - *Hard*
