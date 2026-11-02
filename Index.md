@@ -83,6 +83,7 @@ All solved problems organized by pattern/category.
 - [Sort Array](./GeeksForGeeks/Easy/Sort%20Array) - *Easy*
 
 ## Backtracking
+- [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) - *Medium*
 - [Check Knight Tour Configuration](./LeetCode/Medium/Check%20Knight%20Tour%20Configuration) - *Medium*
 - [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) - *Medium*
 - [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) - *Hard*
