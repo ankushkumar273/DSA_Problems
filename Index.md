@@ -83,6 +83,7 @@ All solved problems organized by pattern/category.
 - [Sort Array](./GeeksForGeeks/Easy/Sort%20Array) - *Easy*
 
 ## Backtracking
+- [M-Coloring Problem](./GeeksForGeeks/Medium/M-Coloring%20Problem) - *Medium*
 - [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) - *Medium*
 - [Check Knight Tour Configuration](./LeetCode/Medium/Check%20Knight%20Tour%20Configuration) - *Medium*
 - [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) - *Medium*
