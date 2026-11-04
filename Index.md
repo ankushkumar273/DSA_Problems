@@ -101,3 +101,6 @@ All solved problems organized by pattern/category.
 
 ## Heap / Priority Queue
 - [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
+
+## Dynamic Programming
+- [Palindrome Partitioning II](./LeetCode/Hard/Palindrome%20Partitioning%20II) - *Hard*
