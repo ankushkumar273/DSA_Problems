@@ -83,6 +83,7 @@ All solved problems organized by pattern/category.
 - [Sort Array](./GeeksForGeeks/Easy/Sort%20Array) - *Easy*
 
 ## Backtracking
+- [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) - *Medium*
 - [Combination Sum](./LeetCode/Medium/Combination%20Sum) - *Medium*
 - [M-Coloring Problem](./GeeksForGeeks/Medium/M-Coloring%20Problem) - *Medium*
 - [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) - *Medium*
