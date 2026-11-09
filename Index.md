@@ -107,3 +107,6 @@ All solved problems organized by pattern/category.
 
 ## Dynamic Programming
 - [Palindrome Partitioning II](./LeetCode/Hard/Palindrome%20Partitioning%20II) - *Hard*
+
+## Recursion
+- [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) - *Medium*
