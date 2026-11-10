@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | September 16, 2026 |
+| **Solved On** | November 10, 2026 |
 | **Tags** | Array, Binary Search, Ternary Search |
 | **Link** | [View Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
-| **Runtime** | 1 ms |
-| **Memory** | 80.1 MB |
+| **Runtime** | 0 ms |
+| **Memory** | 79.7 MB |
 
 ## Problem Description
 
@@ -20,7 +20,7 @@
 <p>Your task is to solve it in <code>O(log(n))</code> time complexity.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><span class="float-right -my-0.5 ml-2 inline-flex select-none items-center" data-example-lang-controls=""><span role="group" class="inline-flex h-6 items-center rounded-sd-md bg-sd-muted p-0.5" data-example-lang-toggle=""><button type="button" aria-pressed="true" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-sd-border bg-sd-background text-sd-foreground" fdprocessedid="nrak18">Original</button><button type="button" aria-pressed="false" class="h-5 max-w-[10rem] truncate whitespace-nowrap rounded-sd-sm border px-2 text-xs font-normal leading-none border-transparent text-sd-muted-foreground hover:text-sd-foreground" fdprocessedid="8dqmis">Java</button></span></span><strong class="example">Example 1:</strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">arr = [0,1,0]</span></p>
