@@ -70,6 +70,7 @@ All solved problems organized by pattern/category.
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 
 ## Uncategorized
+- [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) - *Medium*
 - [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) - *Medium*
