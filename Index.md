@@ -57,6 +57,7 @@ All solved problems organized by pattern/category.
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 
 ## Binary Search
+- [Minimized Maximum of Products Distributed to Any Store](./LeetCode/Medium/Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store) - *Medium*
 - [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) - *Medium*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Search in Rotated Sorted Array](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
