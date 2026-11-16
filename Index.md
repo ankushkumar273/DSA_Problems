@@ -115,3 +115,6 @@ All solved problems organized by pattern/category.
 
 ## Recursion
 - [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) - *Medium*
+
+## Linked List
+- [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) - *Easy*
