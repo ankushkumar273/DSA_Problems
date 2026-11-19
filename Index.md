@@ -118,6 +118,7 @@ All solved problems organized by pattern/category.
 - [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) - *Medium*
 
 ## Linked List
+- [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) - *Easy*
 - [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) - *Medium*
 - [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
 - [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) - *Easy*
