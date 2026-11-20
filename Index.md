@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Sort Even and Odd Indices Independently](./LeetCode/Easy/Sort%20Even%20and%20Odd%20Indices%20Independently) - *Easy*
 - [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) - *Easy*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Array Subset](./GeeksForGeeks/Easy/Array%20Subset) - *Easy*
