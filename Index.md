@@ -101,6 +101,7 @@ All solved problems organized by pattern/category.
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
 
 ## Stack
+- [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) - *Medium*
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
 - [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) - *Medium*
 - [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) - *Medium*
