@@ -122,6 +122,7 @@ All solved problems organized by pattern/category.
 - [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) - *Medium*
 
 ## Linked List
+- [Partition List](./LeetCode/Medium/Partition%20List) - *Medium*
 - [Reorder List](./LeetCode/Medium/Reorder%20List) - *Medium*
 - [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) - *Easy*
 - [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) - *Medium*
