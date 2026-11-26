@@ -101,6 +101,7 @@ All solved problems organized by pattern/category.
 - [N-Queens](./LeetCode/Hard/N-Queens) - *Hard*
 
 ## Stack
+- [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) - *Medium*
 - [Min Stack](./LeetCode/Medium/Min%20Stack) - *Medium*
 - [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) - *Medium*
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
