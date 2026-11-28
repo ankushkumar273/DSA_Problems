@@ -123,6 +123,7 @@ All solved problems organized by pattern/category.
 - [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) - *Medium*
 
 ## Linked List
+- [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) - *Easy*
 - [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) - *Medium*
 - [Partition List](./LeetCode/Medium/Partition%20List) - *Medium*
 - [Reorder List](./LeetCode/Medium/Reorder%20List) - *Medium*
